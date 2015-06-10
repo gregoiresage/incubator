@@ -10,7 +10,10 @@
     "watchface": false
   },
   "appKeys": {
-    "dummy": 0
+    "egg_id":       2000,
+    
+    "rank":         1000,
+    "playersCount": 1001
   },
   "resources": {
     "media": []
