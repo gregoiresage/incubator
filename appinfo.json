@@ -1,0 +1,18 @@
+{
+  "uuid": "79b2b38b-3708-4547-a0fa-e10ff7aa23cd",
+  "shortName": "Incubator",
+  "longName": "Incubator",
+  "companyName": "G&C",
+  "versionLabel": "0.1",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
